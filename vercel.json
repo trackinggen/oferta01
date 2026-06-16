@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "api/pix-gateway.js": {
+      "maxDuration": 30
+    }
+  },
   "rewrites": [
     {
       "source": "/pagamento/api/gateway.php",

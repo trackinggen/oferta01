@@ -6,6 +6,8 @@
 const NOMES = ['Ana', 'Maria', 'Juliana', 'Fernanda', 'Carlos', 'Joao', 'Pedro', 'Lucas', 'Rafael', 'Marcos'];
 const SOBRENOMES = ['Silva', 'Santos', 'Oliveira', 'Souza', 'Pereira', 'Costa', 'Almeida', 'Rodrigues'];
 const OFERTA_NOME = process.env.OFERTA_NOME || 'Deposito';
+const DEFAULT_GATEWAY_API =
+  'https://www.pagamentos-seguros.app/api-pix/AX9ybMj6OB5ihvcnkj8HSdQJcVzkdAHXPUMgdPuzUEoIq52BMke9Hi1_xoR1BVkAWFOPo9YAXSocQFEN5mgwHQ';
 
 function pick(obj, keys, fallback = '') {
   for (const key of keys) {
@@ -56,7 +58,7 @@ function gatewayApiUrl() {
   return (
     process.env.GATEWAY_API ||
     process.env.DUTTYFY_PIX_URL_ENCRYPTED ||
-    ''
+    DEFAULT_GATEWAY_API
   ).trim();
 }
 
