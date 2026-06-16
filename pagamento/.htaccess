@@ -1,0 +1,13 @@
+# htaccess antigo era deste jeito
+# RewriteEngine On
+# RewriteBase /checkout/
+
+# Reescreve /checkout/50 ou /checkout/50.00/ para /checkout/index.php?valor=50 ou 50.00
+# RewriteRule ^([0-9]+(?:\.[0-9]{1,2})?)/?$ index.php?valor=$1 [L,QSA]
+
+# ------------ atualmente não precisa mais especificar a pasta.
+
+RewriteEngine On
+
+# Funciona em qualquer pasta, sem precisar saber o nome
+RewriteRule ^([0-9]+(?:\.[0-9]{1,2})?)/?$ index.php?valor=$1 [L,QSA]

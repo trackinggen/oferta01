@@ -1,0 +1,38 @@
+{
+    "transactionId": "cb297940-4895-48d6-b61b-5d849a192a3c",
+    "status": "COMPLETED",
+    "amount": 20,
+    "amountInCents": 2000,
+    "createdAt": "2026-03-17 12:07:46",
+    "approvedDate": "2026-03-17 12:11:33",
+    "customer": {
+        "name": "Yasmin Santos",
+        "email": "yasminsantos665@gmail.com",
+        "phone": "13979161325",
+        "document": "51946264792",
+        "ip": "191.38.4.54"
+    },
+    "product": {
+        "id": "cb297940-4895-48d6-b61b-5d849a192a3c",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": "FB",
+        "utm_campaign": "Babuleta — 2 — Cópia|120246350774020029",
+        "utm_medium": "Novo conjunto de anúncios de Vendas|120246350774120029",
+        "utm_content": "Novo anúncio de Vendas|120246350773950029",
+        "utm_term": "Instagram_Reels",
+        "fbclid": "PAZXh0bgNhZW0BMABhZGlkAasza0FIOr1zcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafcuHgS7XXrmm8owD6Ew3Q6hSkYLrwMiafzghcQDkBvbhdsh5OHwZIE4MSG5g_aem_25TZDTZ9XKzZA7L4RzluAg",
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "",
+        "anonimo": true,
+        "mensagem": ""
+    },
+    "utmify": []
+}

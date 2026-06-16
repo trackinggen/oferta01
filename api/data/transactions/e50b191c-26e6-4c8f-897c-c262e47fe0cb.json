@@ -1,0 +1,38 @@
+{
+    "transactionId": "e50b191c-26e6-4c8f-897c-c262e47fe0cb",
+    "status": "PENDING",
+    "amount": 20,
+    "amountInCents": 2000,
+    "createdAt": "2026-03-17 11:39:16",
+    "approvedDate": null,
+    "customer": {
+        "name": "Vanessa Coelho",
+        "email": "vanessacoelho796@gmail.com",
+        "phone": "51942492939",
+        "document": "76742007796",
+        "ip": "45.71.210.193"
+    },
+    "product": {
+        "id": "e50b191c-26e6-4c8f-897c-c262e47fe0cb",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": "FB",
+        "utm_campaign": "Babuleta — 2 — Cópia|120246350774020029",
+        "utm_medium": "Novo conjunto de anúncios de Vendas — Cópia|120246350773820029",
+        "utm_content": "Novo anúncio de Vendas|120246350774070029",
+        "utm_term": "Facebook_Mobile_Reels",
+        "fbclid": "IwZXh0bgNhZW0BMABhZGlkAasza0Hdw_1zcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7HR8dHoIFBEKS8Xc7GqSXVIejW9L1Q3hetggAi7va4L-6dWjMbdNbrTXt1Ew_aem_kcuzetgjAAKEfOjvbcTR-w",
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "Masatoshi S",
+        "anonimo": false,
+        "mensagem": "Sou aposentado. Mas tenho certeza que muitos irão ajudar. Deus abençoe todos vcs e as crianças."
+    },
+    "utmify": []
+}

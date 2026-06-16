@@ -1,0 +1,10 @@
+Options -Indexes
+
+<FilesMatch "^(config|utils)\.php$">
+    Require all denied
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^pedidos/ - [F,L]
+</IfModule>

@@ -1,0 +1,38 @@
+{
+    "transactionId": "577dca4c-904e-4273-90f8-0bc698d9b609",
+    "status": "PENDING",
+    "amount": 50,
+    "amountInCents": 5000,
+    "createdAt": "2026-03-17 10:25:57",
+    "approvedDate": null,
+    "customer": {
+        "name": "Leticia Rocha",
+        "email": "leticiarocha481@gmail.com",
+        "phone": "86955407140",
+        "document": "52816367584",
+        "ip": "177.155.207.35"
+    },
+    "product": {
+        "id": "577dca4c-904e-4273-90f8-0bc698d9b609",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": null,
+        "utm_campaign": null,
+        "utm_medium": null,
+        "utm_content": null,
+        "utm_term": null,
+        "fbclid": null,
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "",
+        "anonimo": true,
+        "mensagem": ""
+    },
+    "utmify": []
+}

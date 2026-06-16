@@ -1,0 +1,38 @@
+{
+    "transactionId": "708e5bfd-d381-43e1-9fa0-d864bd188178",
+    "status": "PENDING",
+    "amount": 20,
+    "amountInCents": 2000,
+    "createdAt": "2026-03-17 11:41:38",
+    "approvedDate": null,
+    "customer": {
+        "name": "Gabriel Rodrigues",
+        "email": "gabrielrodrigues789@gmail.com",
+        "phone": "61965512006",
+        "document": "08923955590",
+        "ip": "45.71.111.114"
+    },
+    "product": {
+        "id": "708e5bfd-d381-43e1-9fa0-d864bd188178",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": "FB",
+        "utm_campaign": "Babuleta — 2 — Cópia|120246350774180029",
+        "utm_medium": "Novo conjunto de anúncios de Vendas — Cópia|120246350773600029",
+        "utm_content": "Novo anúncio de Vendas|120246350773710029",
+        "utm_term": "Instagram_Reels",
+        "fbclid": "PAZXh0bgNhZW0BMABhZGlkAasza0EWyn1zcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadpwtc9A_zVC2f8tyr-MP0gnbab1u2KbzFc-P7eVYo5ZQm3sJ4TJvQWaZvj2A_aem_ETYQ-ODTpoYMjHGcssg4xw",
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "",
+        "anonimo": true,
+        "mensagem": ""
+    },
+    "utmify": []
+}

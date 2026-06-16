@@ -1,0 +1,38 @@
+{
+    "transactionId": "7cc4ac26-ff46-4599-828d-412f9845edff",
+    "status": "PENDING",
+    "amount": 200,
+    "amountInCents": 20000,
+    "createdAt": "2026-03-17 12:53:00",
+    "approvedDate": null,
+    "customer": {
+        "name": "Fernanda Borges",
+        "email": "fernandaborges421@gmail.com",
+        "phone": "91992617708",
+        "document": "53898213862",
+        "ip": "138.59.121.44"
+    },
+    "product": {
+        "id": "7cc4ac26-ff46-4599-828d-412f9845edff",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": "FB",
+        "utm_campaign": "Babuleta — 2 — Cópia|120246350774170029",
+        "utm_medium": "Novo conjunto de anúncios de Vendas — Cópia|120246350773770029",
+        "utm_content": "Novo anúncio de Vendas|120246350774210029",
+        "utm_term": "Facebook_Stories",
+        "fbclid": "IwZXh0bgNhZW0BMABhZGlkAasza0Fw0V1zcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6Obyh_pOZ7ZmgoKBfKKaW_-e8f6Uu-hRApdGJaWgyj8lBynKVpsquAemBv8w_aem_dxNKT3YufZBApUFIcDm8oQ",
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "",
+        "anonimo": true,
+        "mensagem": "2.00dois reais"
+    },
+    "utmify": []
+}

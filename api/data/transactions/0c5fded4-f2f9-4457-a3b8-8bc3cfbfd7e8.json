@@ -1,0 +1,38 @@
+{
+    "transactionId": "0c5fded4-f2f9-4457-a3b8-8bc3cfbfd7e8",
+    "status": "PENDING",
+    "amount": 20,
+    "amountInCents": 2000,
+    "createdAt": "2026-03-17 11:33:39",
+    "approvedDate": null,
+    "customer": {
+        "name": "Felipe Correia",
+        "email": "felipecorreia598@gmail.com",
+        "phone": "47956712864",
+        "document": "32792767308",
+        "ip": "181.174.223.113"
+    },
+    "product": {
+        "id": "0c5fded4-f2f9-4457-a3b8-8bc3cfbfd7e8",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": "FB",
+        "utm_campaign": "Babuleta — 2 — Cópia|120246350773610029",
+        "utm_medium": "Novo conjunto de anúncios de Vendas — Cópia|120246350773860029",
+        "utm_content": "Novo anúncio de Vendas|120246350774220029",
+        "utm_term": "Instagram_Stories",
+        "fbclid": "PAZXh0bgNhZW0BMABhZGlkAasza0Fe9w1zcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadP1A0Lf79G1N96mivXWf8nZ55jcq9yGe6SIpNf7iZEiEblvxdvqzM9k4KoHg_aem_ds6PRTn80Fdiyixq4RmuBQ",
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "",
+        "anonimo": true,
+        "mensagem": ""
+    },
+    "utmify": []
+}

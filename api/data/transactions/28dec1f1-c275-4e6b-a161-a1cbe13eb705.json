@@ -1,0 +1,38 @@
+{
+    "transactionId": "28dec1f1-c275-4e6b-a161-a1cbe13eb705",
+    "status": "PENDING",
+    "amount": 20,
+    "amountInCents": 2000,
+    "createdAt": "2026-03-17 11:54:32",
+    "approvedDate": null,
+    "customer": {
+        "name": "Maria Marques",
+        "email": "mariamarques593@gmail.com",
+        "phone": "19937058934",
+        "document": "61076694004",
+        "ip": "179.165.98.173"
+    },
+    "product": {
+        "id": "28dec1f1-c275-4e6b-a161-a1cbe13eb705",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": "FB",
+        "utm_campaign": "Babuleta — 2 — Cópia|120246350774170029",
+        "utm_medium": "Novo conjunto de anúncios de Vendas — Cópia|120246350773770029",
+        "utm_content": "Novo anúncio de Vendas|120246350774210029",
+        "utm_term": "Facebook_Stories",
+        "fbclid": "IwZmRpZBZQMRi5uxSc-DW9W-s8vadyZAx_wyhaZXh0bgNhZW0BMABhZGlkAasza0Fw0V1zcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR5Grb4K9Z9DdJyrXcP0QsWgW-6fQRMTJHIYdGd1LRWEvhu5wg41hFYxHg3M7A_aem_lnRb-bnS_OzU1e_ctaplDg",
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "",
+        "anonimo": false,
+        "mensagem": ""
+    },
+    "utmify": []
+}

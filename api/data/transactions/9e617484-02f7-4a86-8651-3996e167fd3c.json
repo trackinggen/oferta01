@@ -1,0 +1,38 @@
+{
+    "transactionId": "9e617484-02f7-4a86-8651-3996e167fd3c",
+    "status": "PENDING",
+    "amount": 20,
+    "amountInCents": 2000,
+    "createdAt": "2026-03-17 11:57:18",
+    "approvedDate": null,
+    "customer": {
+        "name": "Paula Teixeira",
+        "email": "paulateixeira455@gmail.com",
+        "phone": "84913684301",
+        "document": "43294899610",
+        "ip": "168.194.167.218"
+    },
+    "product": {
+        "id": "9e617484-02f7-4a86-8651-3996e167fd3c",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": "FB",
+        "utm_campaign": "Babuleta — 2 — Cópia|120246350774180029",
+        "utm_medium": "Novo conjunto de anúncios de Vendas — Cópia|120246350773600029",
+        "utm_content": "Novo anúncio de Vendas|120246350773710029",
+        "utm_term": "Facebook_Mobile_Reels",
+        "fbclid": "IwZXh0bgNhZW0BMABhZGlkAasza0EWyn1zcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR5im_kxKOijvjFRPqJuWAtH9kmBjBt7yatvhIvjqQvaZMUy1CH2JfBXoxJ3Pg_aem_dXnz8ON3jZlzEsXVfTyxRg",
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "",
+        "anonimo": true,
+        "mensagem": "Deus  tem misericórdia"
+    },
+    "utmify": []
+}

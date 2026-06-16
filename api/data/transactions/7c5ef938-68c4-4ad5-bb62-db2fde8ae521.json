@@ -1,0 +1,38 @@
+{
+    "transactionId": "7c5ef938-68c4-4ad5-bb62-db2fde8ae521",
+    "status": "PENDING",
+    "amount": 50,
+    "amountInCents": 5000,
+    "createdAt": "2026-03-17 10:33:28",
+    "approvedDate": null,
+    "customer": {
+        "name": "Bruno Pinto",
+        "email": "brunopinto283@gmail.com",
+        "phone": "93926427565",
+        "document": "59755051511",
+        "ip": "177.155.207.35"
+    },
+    "product": {
+        "id": "7c5ef938-68c4-4ad5-bb62-db2fde8ae521",
+        "name": "Doacao Cantinho das Borboletas",
+        "quantity": 1
+    },
+    "trackingParameters": {
+        "src": null,
+        "sck": null,
+        "utm_source": null,
+        "utm_campaign": null,
+        "utm_medium": null,
+        "utm_content": null,
+        "utm_term": null,
+        "fbclid": null,
+        "gclid": null,
+        "ttclid": null
+    },
+    "checkout": {
+        "nome": "",
+        "anonimo": true,
+        "mensagem": ""
+    },
+    "utmify": []
+}
