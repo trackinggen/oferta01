@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/pagamento/api/gateway.php",
+      "destination": "/api/pix-gateway"
+    }
+  ]
+}

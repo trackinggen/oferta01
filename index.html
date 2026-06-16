@@ -3310,14 +3310,17 @@ function showNotification(msg, erro = false) {
     if (loading && loading.classList.contains('is-open')) return;
     openPixLoadingModal();
 
-    var fd = new FormData(form);
-    fd.set('nome_doador', nomeOk);
+    var bodyParams = new URLSearchParams();
+    new FormData(form).forEach(function (value, key) {
+      bodyParams.append(key, value);
+    });
+    bodyParams.set('nome_doador', nomeOk);
 
     try {
       debugLog('pix_request_start', { valorNum: valorNum, fromSubmit: fromSubmit, fromValorRapido: fromValorRapido });
       const res = await fetch(pixBackendUrl, {
         method: 'POST',
-        body: fd,
+        body: bodyParams,
         headers: { 'Accept': 'application/json' }
       });
       const rawResponse = await res.text();
